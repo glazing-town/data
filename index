@@ -1,0 +1,2 @@
+open_system('simulinkdemo_abs');
+sim('simulinkdemo_abs');
